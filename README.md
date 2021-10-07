@@ -1,2 +1,2 @@
 # StateX
-Aan open source state manager for Roblox
+An open source state manager for Roblox
